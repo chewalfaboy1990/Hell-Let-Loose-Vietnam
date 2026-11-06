@@ -202,3 +202,6 @@ This repository serves as the official landing page for Hell Let Loose: Vietnam.
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hell Let Loose: Vietnam today!**
+
+---
+**Last updated:** 2026-11-06 16:59:30 UTC
