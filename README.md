@@ -204,4 +204,4 @@ This repository serves as the official landing page for Hell Let Loose: Vietnam.
 **Get the most recent version of Hell Let Loose: Vietnam today!**
 
 ---
-**Last updated:** 2026-11-07 19:09:20 UTC
+**Last updated:** 2026-11-07 23:11:46 UTC
